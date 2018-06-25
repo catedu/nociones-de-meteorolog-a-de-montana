@@ -1,4 +1,4 @@
-# ![Nubes](./gps_files/36450990_7dd571e38a.jpg)Nubosidad (11 de 31)
+# ![Nubes](img/36450990_7dd571e38a.jpg)Nubosidad (11 de 31)
 
 Las nubes se originan por enfriamiento de una masa de aire y condensación de parte de su vapor de agua, todo ello generalmente ligado a un ascenso. Vemos una nube por ese vapor de agua que se condensa, formando gotitas de agua o cristales de hielo.
 
@@ -14,4 +14,3 @@ Las nubes se clasifican en 3 pisos y en 10 géneros:
 
 #### Como federados y montañeros tenemos que conocer los principales tipos de nubes...  
 
-Contenido: ![aemet](./gps_files/aemet(10).jpg)

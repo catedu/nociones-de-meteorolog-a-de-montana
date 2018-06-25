@@ -1,4 +1,4 @@
-# ![Mapa aragon](./gps_files/Europa_Espana_Aragon_1.map_1.jpg)Interpretación de la información meteorológica (28 de 31)
+# ![Mapa aragon](img/Europa_Espana_Aragon_1.map_1.jpg)Interpretación de la información meteorológica (28 de 31)
 
 El léxico de los boletines meteorológicos, a tener muy en cuenta para poder interpretar correctamente la información, es el siguiente.
 
@@ -36,4 +36,3 @@ El léxico de los boletines meteorológicos, a tener muy en cuenta para poder in
 
 #### Una buena planificación requiere una buena información, para lo que debemos saber distinguir...  
 
-Contenido: ![aemet](./gps_files/aemet(27).jpg)

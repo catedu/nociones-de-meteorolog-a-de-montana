@@ -1,4 +1,4 @@
-# ![Volcán Etna](./gps_files/3492347402_6be1f75850.jpg)Nubosidad en la montaña (18 de 31)
+# ![Volcán Etna](img/3492347402_6be1f75850.jpg)Nubosidad en la montaña (18 de 31)
 
 La mayor nubosidad de la montaña está asociada con los ascensos forzados orográficamente y los estancamientos. En **entornos estables**, se pueden encontrar:
 
@@ -14,4 +14,3 @@ En **entornos inestables** se produce convección orográfica: presencia de fuer
 
 #### Las características de zonas montañosas, que debemos conocer como federados y montañeros, influyen en la presencia de nubes...  
 
-Contenido: ![aemet](./gps_files/aemet(17).jpg)

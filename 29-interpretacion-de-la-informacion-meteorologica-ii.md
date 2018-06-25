@@ -1,4 +1,4 @@
-# ![Hoja helada](./gps_files/6762461877_fbe17f0908.jpg)Interpretación de la información meteorológica (II) (29 de 31)
+# ![Hoja helada](img/6762461877_fbe17f0908.jpg)Interpretación de la información meteorológica (II) (29 de 31)
 
 **Variaciones de temperatura**:
 
@@ -35,4 +35,3 @@
 
 #### Como federados deberemos advertir de ciertas situaciones...
 
-Contenido: ![aemet](./gps_files/aemet(28).jpg)

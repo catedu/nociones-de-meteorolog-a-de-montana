@@ -1,4 +1,4 @@
-# Precipitaciones en la ![rayo](./gps_files/2527988568_ca23167f0c.jpg)montaña (19 de 31)
+# Precipitaciones en la ![rayo](img/2527988568_ca23167f0c.jpg)montaña (19 de 31)
 
 Las montañas constituyen entornos más lluviosos que su entorno, si bien depende de la orientación frente al flujo dominante. En general, se puede afirmar que:
 
@@ -18,4 +18,3 @@ Las **tormentas**, frecuentes en la montaña por suponer éstas mecanismos de di
 
 #### Algunas características del ambiente en las montañas son... (Varias opciones son posibles)  
 
-Contenido: ![aemet](./gps_files/aemet(18).jpg)

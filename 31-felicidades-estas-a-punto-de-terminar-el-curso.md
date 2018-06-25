@@ -1,6 +1,6 @@
 # ¡Felicidades: estás a punto de terminar el curso! (31 de 31)
 
-![Felicidades!](./gps_files/Moncayo_niebla.jpg)Te damos la enhorabuena por ello y te agradecemos el esfuerzo y el tiempo que le has dedicado.
+![Felicidades!](img/Moncayo_niebla.jpg)Te damos la enhorabuena por ello y te agradecemos el esfuerzo y el tiempo que le has dedicado.
 
 Esperamos que te haya sido provechoso y te animamos a que nos comentes tus impresiones o nos aportes comentarios para que podamos mejorar. **¡No olvides darle a enviar para que el curso se considere finalizado!**  
 

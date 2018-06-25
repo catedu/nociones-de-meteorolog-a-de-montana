@@ -1,4 +1,4 @@
-# ![Precipitación](./gps_files/2340986314_f1316deb46.jpg)Precipitación (9 de 31)
+# ![Precipitación](img/2340986314_f1316deb46.jpg)Precipitación (9 de 31)
 
 La definición técnica de **precipitación** podría ser "hidrometeoro compuesto de un agregado de partículas acuosas, líquidas o sólidas, cristalizadas o amorfas, que caen desde una nube o un grupo de nubes y alcanzan el suelo".
 
@@ -16,4 +16,3 @@ La precipitación puede ser en forma líquida o sólida:
 
 #### Las unidades de medida de la precipitación líquida son...  
 
-Contenido: ![aemet](./gps_files/aemet(8).jpg)

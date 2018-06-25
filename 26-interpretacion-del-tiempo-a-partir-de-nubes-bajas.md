@@ -1,4 +1,4 @@
-# ![Estratocúmulos](./gps_files/stratocu2.jpg)Interpretación del tiempo a partir de nubes bajas (26 de 31)
+# ![Estratocúmulos](img/stratocu2.jpg)Interpretación del tiempo a partir de nubes bajas (26 de 31)
 
 \- **Estratos** **continuos** muy cerca del suelo en zonas bajas: señal de inversión térmica, estará despejado por encima.
 
@@ -14,4 +14,3 @@
 
 #### Las nubes bajas son las que dan lluvias con más frecuencia...  
 
-Contenido: ![aemet](./gps_files/aemet(25).jpg)

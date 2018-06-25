@@ -1,4 +1,4 @@
-# ![Nubes bajas](./gps_files/2864164188_f61182fae0.jpg)Nubes bajas (13 de 31)
+# ![Nubes bajas](img/2864164188_f61182fae0.jpg)Nubes bajas (13 de 31)
 
 **ESTRATOS (St)**  
 
@@ -20,4 +20,3 @@ Con base oscura, se trata de nubes de tormenta, por lo que suelen ir acompañada
 
 #### Sobre estos tipos de nubes hay que saber... (Varias opciones son posibles)  
 
-Contenido: ![aemet](./gps_files/aemet(12).jpg)

@@ -1,4 +1,4 @@
-# ![Nubes medias: altocúmulos](./gps_files/alto_cu.jpg)Nubes medias (14 de 31)
+# ![Nubes medias: altocúmulos](img/alto_cu.jpg)Nubes medias (14 de 31)
 
 **NIMBOSTRATOS (Ns)**  
 
@@ -14,4 +14,3 @@ Forman una capa nubosa uniforme que puede dar precipitaciones débiles. Los obje
 
 #### Como federados y montañeros, hay que saber que...  
 
-Contenido: ![aemet](./gps_files/aemet(13).jpg)

@@ -1,4 +1,4 @@
-# ![Mapa de temperaturas](./gps_files/11703_detail.jpg)Temperatura (7 de 31)
+# ![Mapa de temperaturas](img/11703_detail.jpg)Temperatura (7 de 31)
 
 La temperatura es otro de los principales elementos climáticos con influencia en la montaña.
 
@@ -8,4 +8,3 @@ Según se asciende en altura, disminuye la temperatura, aproximadamente 6,5 ºC 
 
 #### Para la práctica segura de actividades en montaña, hay que tener claro que...  
 
-Contenido: ![aemet](./gps_files/aemet(6).jpg)

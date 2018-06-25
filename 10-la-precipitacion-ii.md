@@ -1,4 +1,4 @@
-# ![Tras el chubasco](./gps_files/36450990_7dd571e38a.jpg)Chubascos (10 de 31)
+# ![Tras el chubasco](img/36450990_7dd571e38a.jpg)Chubascos (10 de 31)
 
 Hay que destacar el concepto de **chubasco**, que hace referencia al modo de caída de la precipitación.
 
@@ -8,4 +8,3 @@ En general, se puede afirmar que las precipitaciones a **barlovento** son mayore
 
 #### Si vamos a salir al monte hay que saber que...  
 
-Contenido: ![aemet](./gps_files/aemet(9).jpg)

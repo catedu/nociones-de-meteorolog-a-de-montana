@@ -1,4 +1,4 @@
-# ![Nubes altas](./gps_files/7439501620_219735b458.jpg)Interpretación del tiempo a partir de las nubes altas (24 de 31)
+# ![Nubes altas](img/7439501620_219735b458.jpg)Interpretación del tiempo a partir de las nubes altas (24 de 31)
 
 Fijándonos en las nubes y sabiéndolas distinguir, podemos "predecir" el tiempo que se aproxima.
 
@@ -10,4 +10,3 @@ Fijándonos en las nubes y sabiéndolas distinguir, podemos "predecir" el tiempo
 
 #### Elige la opción más acertada...  
 
-Contenido: ![aemet](./gps_files/aemet(23).jpg)

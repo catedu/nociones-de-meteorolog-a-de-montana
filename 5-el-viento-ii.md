@@ -1,4 +1,6 @@
-# ![Relieve](./gps_files/2276224188_8fae932f11.jpg)El viento y el relieve (5 de 31)
+# El viento y el relieve (5 de 31)
+
+![Relieve](img/2276224188_8fae932f11.jpg)
 
 El relieve afecta en gran medida al viento:
 
@@ -14,6 +16,4 @@ El relieve afecta en gran medida al viento:
 
 **5\. Aumento de la sensación de frío**, por combinación de la temperatura del aire y el viento.
 
-#### Es importante conocer la relación entre el viento y el relieve, especialmente como federados, ya que... (Varias opciones son posibles)  
 
-Contenido: ![aemet](./gps_files/aemet(4).jpg)

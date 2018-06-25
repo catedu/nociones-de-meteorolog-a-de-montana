@@ -1,4 +1,4 @@
-# Nubes altas (15![Nubes altas](./gps_files/ciro-cu.jpg) de 31)
+# Nubes altas (15![Nubes altas](img/ciro-cu.jpg) de 31)
 
 **CIRROS (Ci)  
 **
@@ -19,4 +19,3 @@ Numerosos y pequeños cúmulos elevados y agrupados.
 
 #### Los distintos tipos de nubes que debemos saber diferenciar son...  
 
-Contenido: ![aemet](./gps_files/aemet(14).jpg)

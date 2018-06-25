@@ -4,6 +4,8 @@
 
 * {{ book.author }}
 
+Contenido: ![aemet](img/aemet1.jpg)
+
 <!--
 ### Colaboradores:
 

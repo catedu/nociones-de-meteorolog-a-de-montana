@@ -1,4 +1,4 @@
-# ![Flor mojada](./gps_files/8049104292_cb41d0267c.jpg)Humedad (8 de 31)
+# ![Flor mojada](img/8049104292_cb41d0267c.jpg)Humedad (8 de 31)
 
 Se trata de la cantidad de vapor de agua existente en una masa de aire. Se encuentra en forma gaseosa y, por tanto, invisible. La humedad se ve afectada por:
 
@@ -22,4 +22,3 @@ Dada una cantidad de vapor de agua a una temperatura, el vapor de agua ocupa un 
 
 #### Al mediodía, cuando más alta suele ser la temperatura...  
 
-Contenido: ![aemet](./gps_files/aemet(7).jpg)

@@ -1,4 +1,4 @@
-# ![Viento](./gps_files/219838302_aa5009bae0.jpg)Viento en la montaña (20 de 31)
+# ![Viento](img/219838302_aa5009bae0.jpg)Viento en la montaña (20 de 31)
 
 El relieve supone un factor determinante en la fuerza y dirección del viento. Las principales consecuencias son:
 
@@ -16,4 +16,3 @@ El relieve supone un factor determinante en la fuerza y dirección del viento. L
 
 #### El viento, por tanto, es un factor fundamental en la montaña, y como federados y montañeros no podemos olvidar sus efectos...  
 
-Contenido: ![aemet](./gps_files/aemet(19).jpg)
