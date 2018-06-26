@@ -1,4 +1,6 @@
-# ![Viento](img/219838302_aa5009bae0.jpg)Viento en la montaña (20 de 31)
+# Viento en la montaña (20 de 31)
+
+![Viento](img/219838302_aa5009bae0.jpg)
 
 El relieve supone un factor determinante en la fuerza y dirección del viento. Las principales consecuencias son:
 
@@ -13,6 +15,4 @@ El relieve supone un factor determinante en la fuerza y dirección del viento. L
 \- **Aparición del efecto Foehn**. La incidencia del flujo sobre una montaña extensa perpendicular al mismo puede crear este efecto, consistente en un descenso de la  nubosidad y de la humedad y un aumento de la temperatura en la ladera de sotavento. Esto genera deshielos bruscos, riesgo de aludes, etc.  
 
 \- **Aumento de la sensación de frío**, por combinación de la temperatura del aire y el viento.  
-
-#### El viento, por tanto, es un factor fundamental en la montaña, y como federados y montañeros no podemos olvidar sus efectos...  
 

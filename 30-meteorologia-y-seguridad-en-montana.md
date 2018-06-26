@@ -1,4 +1,6 @@
-# ![Seguridad en montaña](img/362840.jpg)Meteorología y seguridad en montaña (30 de 31)
+# Meteorología y seguridad en montaña (30 de 31)
+
+![Seguridad en montaña](img/362840.jpg)
 
 Los **fenómenos meteorológicos de riesgo** son: tormentas, nevadas fuertes o copiosas, vientos fuertes, temperaturas muy bajas, temperaturas muy altas y niebla. Provocan impactos directos sobre las personas, sus sentidos y su movimiento e indirectos sobre el medio, el material y las infraestructuras.
 
@@ -12,5 +14,4 @@ La **prevención de accidentes** debe basarse en:
 
 4\. Preparación física y psicológica.
 
-#### Un buen consejo que un federado de montaña debe tener en cuenta es...  
 

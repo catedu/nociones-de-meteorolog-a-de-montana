@@ -1,4 +1,6 @@
-# ![Nubes medias: altocúmulos](img/alto_cu.jpg)Nubes medias (14 de 31)
+# Nubes medias (14 de 31)
+
+![Nubes medias: altocúmulos](img/alto_cu.jpg)
 
 **NIMBOSTRATOS (Ns)**  
 
@@ -12,5 +14,4 @@ En general, son cúmulos elevados con poco desarrollo vertical, pudiendo dar pre
 
 Forman una capa nubosa uniforme que puede dar precipitaciones débiles. Los objetos no dan sombra.  
 
-#### Como federados y montañeros, hay que saber que...  
 

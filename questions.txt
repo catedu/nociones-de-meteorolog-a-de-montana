@@ -41,128 +41,166 @@
 
 ::Movimiento del viento:: Como federados, debemos diferenciar entre un anticiclón y una borrasca. ¡Busca las parejas! {
 =Anticiclón -> El aire gira en sentido anti horario cuando estamos en el hemisferio sur.
-#en el hemisferio sur el anticiclón gira en sentido anti horario, mientras que en el hemisferio norte lo hace en sentido horario. En un anticiclón el aire desciende, mientras en la borrasca asciende.
 =Borrasca -> El aire asciende.
-#en una borrasca o depresión el aire asciende, mientras que en un anticiclón desciende. En un anticiclón el aire gira en sentido horario y la borrasca en sentido anti horario (en el hemisferio norte).
-La temperatura disminuye, al ascender 1000 m, unos 6,5 ºC.
-así es, por 1000 m de ascensión la temperatura disminuye aproximadamente 6,5 ºC, de manera que, ¡hay que ir bien preparados para este descenso!
-Cuando subimos a un pico, en condiciones normales la temperatura varía, pudiendo hacer más frío o más calor.
-al ascender la temperatura desciende, unos 6,5 ºC por 1000 m de ascensión.
-Será más fácil que la humedad relativa sea más baja.
-si baja la temperatura, aumenta la humedad relativa, y viceversa, cuando la temperatura aumenta, la humedad relativa desciende.
-Será más fácil que la humedad relativa sea también más alta.
-si baja la temperatura, aumenta la humedad relativa, y viceversa, cuando la temperatura aumenta, la humedad relativa desciende.
-No tienen nada que ver la temperatura y la humedad relativa.
-si baja la temperatura, aumenta la humedad relativa, y viceversa, cuando la temperatura aumenta, la humedad relativa desciende.
-Litros por metro cuadrado (l/m2).
-esta es una de las opciones de medida, pero también se puede medir en milímetros (mm).
-Milímetros (mm).
-esta es una de las opciones de medida pero también se puede medir en litros por metro cuadrado (l/m2).
-Las otras dos opciones son correctas.
-se puede medir tanto en mm como en l/m2.
-la llovizna nunca cae en forma de chubasco, mientras que el granizo siempre lo hace así.
-la llovizna nunca cae en forma de chubasco, mientras que el granizo siempre lo hace así.
-Llovizna
-Nunca cae en forma de chubasco.
-Granizo
-Cae desde nubes convectivas con grandes cambios de intensidad, en forma de chubasco.
-los estratos son nubes bajas, los altocúmulos nubes medias y los cirros nubes altas.
-los estratos son nubes bajas, los altocúmulos nubes medias y los cirros nubes altas.
-Cirros
-Nubes que estarán siempre por encima de los altocúmulos.
-Estratos
-Un tipo de nubes bajas.
-Altocúmulos
-Un tipo de nubes medias.
-Los estratocúmulos nunca dan precipitaciones.
-pueden dar precipitaciones débiles.
-Los chubascos pueden venir de nubes tipo cúmulos o cumulonimbos.
-los cúmulos pueden dar precipitaciones de tipo chubasco.
-Tanto los cúmulos como los estratos presentan poco desarrollo vertical.
-los estratos presentan esta característica, pero no así los cúmulos.
-Ligados a fenómenos de niebla pueden aparecer los estratos.
-los estratos van ligados a fenómenos de niebla.
-Las precipitaciones débiles pueden provenir de altostratos o altocúmulos.
-estos tipos de nubes dan precipitaciones débiles.
-Tanto los nimbostratos como los altocúmulos presentan gran desarrollo vertical.
-el gran desarrollo vertical es característico de los cumulonimbos.
-Nubes bajas: cúmulos, cumulonimbos, estratocúmulos y estratos. Nubes medias: altocúmulos, altostratos y nimbostratos. Nubes altas: cirros, cirrostratos y nimbostratos.
-Nubes bajas: cúmulos, cumulonimbos, estratocúmulos y estratos. Nubes medias: altocúmulos, altostratos y nimbostratos. Nubes altas: cirros, cirrostratos y nimbostratos.
-Nubes altas
-Son cirrostratos, cirros y cirrocúmulos.
-Nubes medias
-Nimbostratos, altostratos y altocúmulos.
-Nubes bajas
-Estratocúmulos, estratos, cúmulos y cumulonimbos.
-Cumulonimbo
-son estas nubes las que dan lugar a tormentas.
-Estratocúmulo
-los estratocúmulos dan lugar a lluvias débiles ocasionales, pero no a tormentas.
-Los cambios meteorológicos, por ejemplo en las precipitaciones, son frecuentemente rápidos en las montañas, ya que éstas interactúan mucho con el flujo atmosférico.
-la gran diversidad topográfica hace que las condiciones varíen mucho en poco espacio, por lo que la variabilidad climática es muy grande en la montaña.
-Las montañas ayudan a detener el flujo del aire, y por eso el viento suele ser menor que en los grandes valles.
-el obstáculo que suponen las montañas hace que el viento sea normalmente más fuerte.
-La nubosidad es más persistente en la montaña, debido a la orografía.
-el relieve genera nubosidad por efecto orográfico, siendo más persistente.
-Las montañas hacen que las nubes asciendan y se vayan a otras zonas, quedando el cielo más despejado.
-los ascensos forzados orográficamente y los estancamientos hacen que la nubosidad en la montaña sea mayor.
-En las montañas el índice de nivosidad es mayor.
-la mayor nubosidad y la mayor altura dan lugar a un mayor índice de nivosidad.
-La intensidad de las precipitaciones en zonas de montaña es menor.
-en zonas montañosas la intensidad de las precipitaciones tiende a ser superior.
-En general, se puede afirmar que las montañas son lugares más lluviosos que su entorno.
-constituyen entornos más lluviosos, si bien depende mucho de la orientación de la cadena frente al flujo dominante.
-Al hacer una salida a la montaña habrá que considerar que los cambios en ésta se producen con mayor rapidez.
-en la montaña los cambios se producen rápidamente, por lo que es muy importante considerar bien todos los factores y realizar una correcta planificación.
-aumenta la velocidad del viento, así como la sensación de frío.
-aumenta la velocidad del viento y la sensación de frío (es decir, disminuye la sensación térmica).
-Aumenta...
-... la intensidad y fuerza del viento.
-Disminuye...
-... la sensación térmica.
-una masa de aire continental polar será fría y seca, mientras una continental tropical será cálida y seca.
-una masa de aire continental polar será fría y seca, mientras una continental tropical será cálida y seca.
-Continental polar (cP)
-Una masa de aire proveniente de Siberia atravesando toda Europa, fría y seca.
-Continental tropical (cT)
-Una masa de aire procedente del Norte de África cálida y seca.
-Será un frente frío cuando la masa de aire que empuja es la fría.
-cuando la masa que empuja es la fría se trata de un frente frío.
-Será un frente frío si el aire frío asciende sobre el aire cálido y genera precipitaciones.
-el frente frío indica que la masa que empuja es la de aire frío.
-Los cirrostratos siempre generan precipitaciones débiles cuando van acompañados de brisa.
-los frentes fríos o cálidos y por tanto las precipitaciones se deducen a partir de los cirros.
-El buen tiempo suele venir tras bandas de cirros en movimiento lento de este a oeste.
-estos cirros suelen terminar disipándose.
-Los frentes fríos surgen tras cirrocúmulos acompañados de otras nubes bajo ellos.
-el aumento rápido de cirros acompañados de nubes bajas desde el norte o noroeste es el indicativo de frentes fríos.
-Las tormentas a partir de mediodía pueden surgir por cierto tipo de nubes medias.
-los altocumulus castellanus a primera hora de la mañana indican probabilidad de tormentas a partir de mediodía.
-Las nubes medias nunca indican probabilidad de precipitaciones.
-determinadas secuencias y ciertos tipos de altocúmulos sí indican probabilidad de precipitaciones y tormentas.
-Los chubascos y tormentas suelen provenir de cúmulos que crecen mucho y rápido.
-los cúmulos que crecen rápidamente alcanzando dimensiones importantes suelen provocar chubascos o tormentas.
-Cuando los cúmulos no crecen indican que por la tarde muy probablemente habrá tormenta.
-si no crecen o se disipan indican buen tiempo.
-Los avisos de fenómenos adversos de precaución se indican por el color amarillo.
-el color amarillo indica precaución, el naranja peligro y el rojo peligro extremo.
-La información es más fiable cuanto más corto es el plazo.
-cuanto más corto es el plazo, más fiable es la información, de manera que más allá de 4 días debe ser interpretada como una tendencia probable.
-Para una correcta planificación de nuestra excursión por la montaña, es recomendable consultar la previsión meteorológica el día anterior.
-la previsión será más acertada justo el día anterior que con varios días de anticipo y deberá ser un punto clave para decidir sobre el destino y duración.
-En caso de aviso naranja, se recomienda evitar los desplazamientos.
-sólo si se trata de riesgo extremo los desplazamientos deben evitarse en la medida de lo posible.
-lluvia  de 15 a 30 mm/h se considera fuerte, cuando los copos de nieve mayores disminuyen la visibilidad se trata de una nevada moderada.
-lluvia de 15 a 30 mm/h se considera fuerte, cuando los copos de nieve mayores disminuyen la visibilidad se trata de una nevada moderada.
-Lluvia fuerte
-Chubasco en el que cae aproximadamente 26 mm/h.
-Nevada moderada
-Los copos mayores disminuyen la visibilidad.
-Las heladas, los vientos, las variaciones de temperaturas, la niebla, etc. son situaciones desfavorables para planear una salida a la montaña.
-las situaciones desfavorables son factores que siempre hay que advertir a todo aquel que se plantee realizar una salida a la montaña.
-No es necesario realizar advertencias, ya que cuando los turistas planifican las excursiones ya tienen en cuenta lo que consideran adecuado.
-siempre es importante y necesario advertir sobre situaciones que pueden entrañar peligro.
-Prestar atención a la previsión meteorológica el día anterior y ser realistas con la realidad personal, es decir, la preparación física y psicológica debe ser acorde con la excursión propuesta, así como con el dominio de la técnica y tácticas específicas. Además, no hay que olvidar el correcto y necesario equipo para la "aventura" a realizar.
-estas consideraciones son el fundamento de la prevención de accidentes.
-El objetivo de la excursión es alcanzar el destino propuesto, independientemente de las condiciones personales, equipo, material, condiciones meteorológicas, etc.
-evidentemente, si no se tienen en cuenta todos los aspectos personales, técnicos y ambientales, la excursión no llegará a buen término.
+}
+
+::Mapa de temperaturas:: Para la práctica segura de actividades en montaña, hay que tener claro que... {
+=La temperatura disminuye, al ascender 1000 m, unos 6,5 ºC.
+#así es, por 1000 m de ascensión la temperatura disminuye aproximadamente 6,5 ºC, de manera que, ¡hay que ir bien preparados para este descenso!
+~Cuando subimos a un pico, en condiciones normales la temperatura varía, pudiendo hacer más frío o más calor.
+#al ascender la temperatura desciende, unos 6,5 ºC por 1000 m de ascensión.
+}
+
+:::: Al mediodía, cuando más alta suele ser la temperatura... {
+=Será más fácil que la humedad relativa sea más baja.
+#si baja la temperatura, aumenta la humedad relativa, y viceversa, cuando la temperatura aumenta, la humedad relativa desciende.
+~Será más fácil que la humedad relativa sea también más alta.
+#si baja la temperatura, aumenta la humedad relativa, y viceversa, cuando la temperatura aumenta, la humedad relativa desciende.
+~No tienen nada que ver la temperatura y la humedad relativa.
+#si baja la temperatura, aumenta la humedad relativa, y viceversa, cuando la temperatura aumenta, la humedad relativa desciende.
+}
+
+::Precipitación:: Las unidades de medida de la precipitación líquida son... {
+~Litros por metro cuadrado (l/m2).
+#esta es una de las opciones de medida, pero también se puede medir en milímetros (mm).
+~Milímetros (mm).
+#esta es una de las opciones de medida pero también se puede medir en litros por metro cuadrado (l/m2).
+=Las otras dos opciones son correctas.
+#se puede medir tanto en mm como en l/m2.
+}
+
+::Chubascos:: Si vamos a salir al monte hay que saber que... {
+=Llovizna -> Nunca cae en forma de chubasco.
+=Granizo -> Cae desde nubes convectivas con grandes cambios de intensidad, en forma de chubasco.
+}
+
+::Nubosidad:: Como federados y montañeros tenemos que conocer los principales tipos de nubes... {
+=Cirros -> Nubes que estarán siempre por encima de los altocúmulos.
+=Estratos -> Un tipo de nubes bajas.
+=Altocúmulos -> Un tipo de nubes medias.
+}
+
+::Nube bajas:: Sobre estos tipos de nubes hay que saber... (Varias opciones son posibles) {
+~Los estratocúmulos nunca dan precipitaciones.
+#pueden dar precipitaciones débiles.
+=Los chubascos pueden venir de nubes tipo cúmulos o cumulonimbos.
+#los cúmulos pueden dar precipitaciones de tipo chubasco.
+~Tanto los cúmulos como los estratos presentan poco desarrollo vertical.
+#los estratos presentan esta característica, pero no así los cúmulos.
+=Ligados a fenómenos de niebla pueden aparecer los estratos.
+#los estratos van ligados a fenómenos de niebla.
+}
+
+::Nubes medias:: Como federados y montañeros, hay que saber que... {
+=Las precipitaciones débiles pueden provenir de altostratos o altocúmulos.
+#estos tipos de nubes dan precipitaciones débiles.
+~Tanto los nimbostratos como los altocúmulos presentan gran desarrollo vertical.
+#el gran desarrollo vertical es característico de los cumulonimbos.
+}
+
+::Nubes altas:: Los distintos tipos de nubes que debemos saber diferenciar son...  {
+=Nubes altas -> Son cirrostratos, cirros y cirrocúmulos.
+=Nubes medias -> Nimbostratos, altostratos y altocúmulos.
+=Nubes bajas -> Estratocúmulos, estratos, cúmulos y cumulonimbos.
+}
+
+::Precipitación según el género de las nubes:: Si en el lugar en el que nos encontramos se está produciendo una tormenta, la nube que está sobre nosotros es un...  {
+=Cumulonimbo
+#son estas nubes las que dan lugar a tormentas.
+~Estratocúmulo
+#los estratocúmulos dan lugar a lluvias débiles ocasionales, pero no a tormentas.
+}
+
+::Influencia de la montaña en el clima:: Para poder interpretar la meteorología, es muy importante conocer la influencia de las montañas en las variables climáticas... {
+=Los cambios meteorológicos, por ejemplo en las precipitaciones, son frecuentemente rápidos en las montañas, ya que éstas interactúan mucho con el flujo atmosférico.
+#la gran diversidad topográfica hace que las condiciones varíen mucho en poco espacio, por lo que la variabilidad climática es muy grande en la montaña.
+~Las montañas ayudan a detener el flujo del aire, y por eso el viento suele ser menor que en los grandes valles.
+#el obstáculo que suponen las montañas hace que el viento sea normalmente más fuerte.
+}
+
+::Nubosidad en la montaña:: Las características de zonas montañosas, que debemos conocer como federados y montañeros, influyen en la presencia de nubes... {
+=La nubosidad es más persistente en la montaña, debido a la orografía.
+#el relieve genera nubosidad por efecto orográfico, siendo más persistente.
+~Las montañas hacen que las nubes asciendan y se vayan a otras zonas, quedando el cielo más despejado.
+#los ascensos forzados orográficamente y los estancamientos hacen que la nubosidad en la montaña sea mayor.
+
+::Precipitaciones en la montaña:: Algunas características del ambiente en las montañas son... (Varias opciones son posibles) {
+=En las montañas el índice de nivosidad es mayor.
+#la mayor nubosidad y la mayor altura dan lugar a un mayor índice de nivosidad.
+~La intensidad de las precipitaciones en zonas de montaña es menor.
+#en zonas montañosas la intensidad de las precipitaciones tiende a ser superior.
+=En general, se puede afirmar que las montañas son lugares más lluviosos que su entorno.
+#constituyen entornos más lluviosos, si bien depende mucho de la orientación de la cadena frente al flujo dominante.
+=Al hacer una salida a la montaña habrá que considerar que los cambios en ésta se producen con mayor rapidez.
+#en la montaña los cambios se producen rápidamente, por lo que es muy importante considerar bien todos los factores y realizar una correcta planificación.
+}
+
+::Viento en la montaña:: El viento, por tanto, es un factor fundamental en la montaña, y como federados y montañeros no podemos olvidar sus efectos...  
+=Aumenta... -> ... la intensidad y fuerza del viento.
+=Disminuye... -> ... la sensación térmica.
+}
+
+::Masas de aire:: Son habituales en Aragón ciertas masas de aire como... {
+=Continental polar (cP) -> Una masa de aire proveniente de Siberia atravesando toda Europa, fría y seca.
+=Continental tropical (cT) -> Una masa de aire procedente del Norte de África cálida y seca.
+}
+
+::Frentes:: Para estar correctamente informado hay que saber distinguir entre frente frío y cálido... {
+=Será un frente frío cuando la masa de aire que empuja es la fría.
+#cuando la masa que empuja es la fría se trata de un frente frío.
+~Será un frente frío si el aire frío asciende sobre el aire cálido y genera precipitaciones.
+#el frente frío indica que la masa que empuja es la de aire frío.
+}
+
+::Interpretación del tiempo a partir de las nubes altas:: Elige la opción más acertada... {
+~Los cirrostratos siempre generan precipitaciones débiles cuando van acompañados de brisa.
+#los frentes fríos o cálidos y por tanto las precipitaciones se deducen a partir de los cirros.
+=El buen tiempo suele venir tras bandas de cirros en movimiento lento de este a oeste.
+#estos cirros suelen terminar disipándose.
+~Los frentes fríos surgen tras cirrocúmulos acompañados de otras nubes bajo ellos.
+#el aumento rápido de cirros acompañados de nubes bajas desde el norte o noroeste es el indicativo de frentes fríos.
+}
+
+::Interpretación del tiempo a partir de las nubes medias:: Para evitarnos un chaparrón conviene saber...
+=Las tormentas a partir de mediodía pueden surgir por cierto tipo de nubes medias.
+#los altocumulus castellanus a primera hora de la mañana indican probabilidad de tormentas a partir de mediodía.
+~Las nubes medias nunca indican probabilidad de precipitaciones.
+#determinadas secuencias y ciertos tipos de altocúmulos sí indican probabilidad de precipitaciones y tormentas.
+}
+
+::Interpretación del tiempo a partir de las nubes bajas:: Las nubes bajas son las que dan lluvias con más frecuencia... {
+=Los chubascos y tormentas suelen provenir de cúmulos que crecen mucho y rápido.
+#los cúmulos que crecen rápidamente alcanzando dimensiones importantes suelen provocar chubascos o tormentas.
+~Cuando los cúmulos no crecen indican que por la tarde muy probablemente habrá tormenta.
+#si no crecen o se disipan indican buen tiempo.
+}
+
+::Información meteorológica:: Como federados de montaña, es importante conocer la información facilitada por distintas fuentes, entre ellas AEMET... (Varias opciones son posibles) {
+=Los avisos de fenómenos adversos de precaución se indican por el color amarillo.
+#el color amarillo indica precaución, el naranja peligro y el rojo peligro extremo.
+=La información es más fiable cuanto más corto es el plazo.
+#cuanto más corto es el plazo, más fiable es la información, de manera que más allá de 4 días debe ser interpretada como una tendencia probable.
+=Para una correcta planificación de nuestra excursión por la montaña, es recomendable consultar la previsión meteorológica el día anterior.
+#la previsión será más acertada justo el día anterior que con varios días de anticipo y deberá ser un punto clave para decidir sobre el destino y duración.
+~En caso de aviso naranja, se recomienda evitar los desplazamientos.
+#sólo si se trata de riesgo extremo los desplazamientos deben evitarse en la medida de lo posible.
+}
+
+::Interpretación de la información meteorológica:: Una buena planificación requiere una buena información, para lo que debemos saber distinguir... {
+=Lluvia fuerte -> Chubasco en el que cae aproximadamente 26 mm/h.
+=Nevada moderada -> Los copos mayores disminuyen la visibilidad.
+}
+
+::Interpretación de la información meteorológica II:: Como federados deberemos advertir de ciertas situaciones... {
+=Las heladas, los vientos, las variaciones de temperaturas, la niebla, etc. son situaciones desfavorables para planear una salida a la montaña.
+#las situaciones desfavorables son factores que siempre hay que advertir a todo aquel que se plantee realizar una salida a la montaña.
+~No es necesario realizar advertencias, ya que cuando los turistas planifican las excursiones ya tienen en cuenta lo que consideran adecuado.
+#siempre es importante y necesario advertir sobre situaciones que pueden entrañar peligro.
+}
+
+::meteorología y seguridad en montaña:: Un buen consejo que un federado de montaña debe tener en cuenta es... {
+=Prestar atención a la previsión meteorológica el día anterior y ser realistas con la realidad personal, es decir, la preparación física y psicológica debe ser acorde con la excursión propuesta, así como con el dominio de la técnica y tácticas específicas. Además, no hay que olvidar el correcto y necesario equipo para la "aventura" a realizar.
+#estas consideraciones son el fundamento de la prevención de accidentes.
+~El objetivo de la excursión es alcanzar el destino propuesto, independientemente de las condiciones personales, equipo, material, condiciones meteorológicas, etc.
+#evidentemente, si no se tienen en cuenta todos los aspectos personales, técnicos y ambientales, la excursión no llegará a buen término.
+}

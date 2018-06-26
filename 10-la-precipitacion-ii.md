@@ -1,4 +1,6 @@
-# ![Tras el chubasco](img/36450990_7dd571e38a.jpg)Chubascos (10 de 31)
+# Chubascos (10 de 31)
+
+![Tras el chubasco](img/36450990_7dd571e38a.jpg)
 
 Hay que destacar el concepto de **chubasco**, que hace referencia al modo de caída de la precipitación.
 
@@ -6,5 +8,4 @@ Hay que destacar el concepto de **chubasco**, que hace referencia al modo de ca�
 
 En general, se puede afirmar que las precipitaciones a **barlovento** son mayores que a **sotavento**.
 
-#### Si vamos a salir al monte hay que saber que...  
 

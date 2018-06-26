@@ -1,4 +1,6 @@
-# ![Nubes bajas](img/2864164188_f61182fae0.jpg)Nubes bajas (13 de 31)
+# Nubes bajas (13 de 31)
+
+![Nubes bajas](img/2864164188_f61182fae0.jpg)
 
 **ESTRATOS (St)**  
 
@@ -18,5 +20,5 @@ Presentan unos bordes definidos, recordando a algodones (de buen tiempo) o a col
 
 Con base oscura, se trata de nubes de tormenta, por lo que suelen ir acompañadas de rayos, viento y granizo, dando a veces precipitaciones bruscas de tipo chubasco. Gran desarrollo vertical, de hasta 8 - 15 km, ocupando así todos los pisos. Habitualmente desarrollan un yunque superior.  
 
-#### Sobre estos tipos de nubes hay que saber... (Varias opciones son posibles)  
+ 
 

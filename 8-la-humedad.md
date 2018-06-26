@@ -1,4 +1,6 @@
-# ![Flor mojada](img/8049104292_cb41d0267c.jpg)Humedad (8 de 31)
+# Humedad (8 de 31)
+
+![Flor mojada](img/8049104292_cb41d0267c.jpg)
 
 Se trata de la cantidad de vapor de agua existente en una masa de aire. Se encuentra en forma gaseosa y, por tanto, invisible. La humedad se ve afectada por:
 
@@ -20,5 +22,5 @@ La **temperatura del punto de rocío** es aquella a la que se alcanza el 100% de
 
 Dada una cantidad de vapor de agua a una temperatura, el vapor de agua ocupa un porcentaje del máximo (sin condensar). Si baja la temperatura, aumenta la humedad relativa (y viceversa). Si la temperatura continúa descendiendo, la humedad relativa alcanzará el 100%: esa temperatura es el punto de rocío. Por debajo de esa temperatura se condensará el exceso de vapor de agua.
 
-#### Al mediodía, cuando más alta suele ser la temperatura...  
+
 

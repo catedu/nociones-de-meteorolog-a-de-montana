@@ -1,4 +1,6 @@
-# ![Estratocúmulos](img/stratocu2.jpg)Interpretación del tiempo a partir de nubes bajas (26 de 31)
+# Interpretación del tiempo a partir de nubes bajas (26 de 31)
+
+![Estratocúmulos](img/stratocu2.jpg)
 
 \- **Estratos** **continuos** muy cerca del suelo en zonas bajas: señal de inversión térmica, estará despejado por encima.
 
@@ -11,6 +13,5 @@
 - **Crecimiento de cúmulos más en la horizontal** que en la vertical: estratocúmulos, precipitación más débil y aislada.  
 
 \- **Cúmulos que crecen rápidamente** y adquieren dimensiones importantes: señal de chubascos o tormentas.  
-
-#### Las nubes bajas son las que dan lluvias con más frecuencia...  
+ 
 

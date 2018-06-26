@@ -4,7 +4,7 @@ La superficie de separación entre masas de aire se denomina **frente**. En esta
 
 ![Frente frío](img/image002.png)\- **Frente frío**: cuando la masa que empuja es la fría.
 
- ![Frente caliente](img/image004.png)
+![Frente caliente](img/image004.png)
 
 \- **Frente cálido**: cuando la masa que empuja es la cálida.
 
@@ -14,5 +14,4 @@ En nuestras latitudes, los sistemas frontales se desarrollan habitualmente asoci
 
 La posición relativa de estos sistemas frontales respecto a nuestra ubicación en la superficie provoca que experimentemos un tiempo u otro.  
 
-#### Para estar correctamente informado hay que saber distinguir entre frente frío y cálido...  
 

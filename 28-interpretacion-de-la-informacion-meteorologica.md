@@ -1,4 +1,6 @@
-# ![Mapa aragon](img/Europa_Espana_Aragon_1.map_1.jpg)Interpretación de la información meteorológica (28 de 31)
+# Interpretación de la información meteorológica (28 de 31)
+
+![Mapa aragon](img/Europa_Espana_Aragon_1.map_1.jpg)
 
 El léxico de los boletines meteorológicos, a tener muy en cuenta para poder interpretar correctamente la información, es el siguiente.
 
@@ -34,5 +36,4 @@ El léxico de los boletines meteorológicos, a tener muy en cuenta para poder in
 
 \- Fuertes: reducción sensible de la visibilidad, la capa de nieve aumenta más de 4 cm/h.  
 
-#### Una buena planificación requiere una buena información, para lo que debemos saber distinguir...  
 

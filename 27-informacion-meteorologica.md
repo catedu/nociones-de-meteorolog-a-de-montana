@@ -1,4 +1,6 @@
-# ![Nevada](img/7995242426_1e5c818f1e.jpg)Información meteorológica (27 de 31)
+# Información meteorológica (27 de 31)
+
+![Nevada](img/7995242426_1e5c818f1e.jpg)
 
 Las fuentes de información meteorológica y los posibles modos de consulta son diversos. Una de las fuentes más importantes es el **AEMET**: la Agencia Estatal de Meteorología. Se puede consultar la predicción por comunidad autónoma, provincia o a nivel municipal, tanto predicción horaria como semanal.
 
@@ -20,5 +22,5 @@ Son importantes los **avisos de fenómenos adversos**, que se emiten cuando se e
 
 \- **Rojo** – Peligro extremo.
 
-#### Como federados de montaña, es importante conocer la información facilitada por distintas fuentes, entre ellas AEMET... (Varias opciones son posibles)  
+
 

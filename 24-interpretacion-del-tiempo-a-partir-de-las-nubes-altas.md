@@ -1,4 +1,6 @@
-# ![Nubes altas](img/7439501620_219735b458.jpg)Interpretación del tiempo a partir de las nubes altas (24 de 31)
+# Interpretación del tiempo a partir de las nubes altas (24 de 31)
+
+![Nubes altas](img/7439501620_219735b458.jpg)
 
 Fijándonos en las nubes y sabiéndolas distinguir, podemos "predecir" el tiempo que se aproxima.
 
@@ -8,5 +10,4 @@ Fijándonos en las nubes y sabiéndolas distinguir, podemos "predecir" el tiempo
 
 \- Bandas de cirros en movimiento lento de este a oeste: indicadores de **buen tiempo**, suelen terminar disipándose.
 
-#### Elige la opción más acertada...  
 

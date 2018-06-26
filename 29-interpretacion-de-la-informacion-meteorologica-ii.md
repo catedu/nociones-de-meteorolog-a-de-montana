@@ -1,4 +1,6 @@
-# ![Hoja helada](img/6762461877_fbe17f0908.jpg)Interpretación de la información meteorológica (II) (29 de 31)
+# Interpretación de la información meteorológica (II) (29 de 31)
+
+![Hoja helada](img/6762461877_fbe17f0908.jpg)
 
 **Variaciones de temperatura**:
 
@@ -31,7 +33,5 @@
 \- Muy fuertes: velocidad media 71 - 120 km/h.
 
 \- Huracanados: más de 120 km/h.  
-  
 
-#### Como federados deberemos advertir de ciertas situaciones...
 

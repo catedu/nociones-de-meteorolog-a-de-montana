@@ -1,4 +1,6 @@
-# ![Mapa de temperaturas](img/11703_detail.jpg)Temperatura (7 de 31)
+# Temperatura (7 de 31)
+
+![Mapa de temperaturas](img/11703_detail.jpg)
 
 La temperatura es otro de los principales elementos climáticos con influencia en la montaña.
 
@@ -6,5 +8,5 @@ La temperatura se mide en grados centígrados (ºC), Fahrenheit (ºF) o Kelvin (
 
 Según se asciende en altura, disminuye la temperatura, aproximadamente 6,5 ºC por cada 1000 m de ascenso.
 
-#### Para la práctica segura de actividades en montaña, hay que tener claro que...  
+  
 
