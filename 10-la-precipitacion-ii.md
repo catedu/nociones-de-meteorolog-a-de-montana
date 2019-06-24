@@ -1,6 +1,6 @@
 # Chubascos (10 de 31)
 
-![Tras el chubasco](img/36450990_7dd571e38a.jpg)
+![Tras el chubasco](https://live.staticflickr.com/5617/21434569893_97779bfc00_b.jpg)
 
 Hay que destacar el concepto de **chubasco**, que hace referencia al modo de caída de la precipitación.
 
