@@ -1,6 +1,6 @@
 # Nubosidad (11 de 31)
 
-![Nubes](img/36450990_7dd571e38a.jpg)
+![Nubes](https://cdn.pixabay.com/photo/2019/01/13/09/57/sky-3930023_960_720.jpg)
 
 Las nubes se originan por enfriamiento de una masa de aire y condensación de parte de su vapor de agua, todo ello generalmente ligado a un ascenso. Vemos una nube por ese vapor de agua que se condensa, formando gotitas de agua o cristales de hielo.
 
